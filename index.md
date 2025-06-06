@@ -1,4 +1,3 @@
 ---
-title: tsukiP Page
+layout: Home
 ---
-Hello world!

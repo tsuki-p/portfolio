@@ -1,5 +1,6 @@
 theme: minima
-skin: solarized-light 
-title: Portfolio
-description: Art, Design & Technology
+minima:
+  skin: solarized-light 
+title: tsuki-p Portfolio
+description: Enjoying Art, Design, & Technology
 author: tsuki-p
