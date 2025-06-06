@@ -1,4 +1,5 @@
 theme: minima
-title: tsuki-p's personal blog
-description: This is where I share cool stuff about my life
+skin: solarized-light 
+title: Portfolio
+description: Art, Design & Technology
 author: tsuki-p
