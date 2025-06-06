@@ -1,6 +1,8 @@
 theme: minima
 minima:
   skin: solarized-light 
+  nav_pages:
+    - about.md
 title: tsuki-p Portfolio
 description: Enjoying Art, Design, & Technology
 author: tsuki-p
