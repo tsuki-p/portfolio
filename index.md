@@ -1,4 +1,3 @@
 ---
-layout: Home
+layout: home
 ---
-Hello
