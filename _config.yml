@@ -6,12 +6,6 @@ title: tsuki-p Portfolio
 author:
    name: tsuki-p
 #   email: your-email@domain.com
-   
-theme: minima
-minima:
-  skin: solarized-light 
-  nav_pages:
-    - about.md
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
