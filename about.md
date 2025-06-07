@@ -13,7 +13,7 @@ I'm familiar with followings.
 - JIRA
 - Jenkins
 - Android Studio
-- Copilot / ChatGPT / Claude
+- Copilot w/ ChatGPT / Claude / Gemini
 - Photoshop
 - Illustrator
 - AfterEffects
